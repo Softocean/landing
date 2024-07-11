@@ -13,7 +13,7 @@ const WTDHeader = () => {
         height={800}
       />
       <h1 className="relative -right-24 -top-12 text-right text-base-24 font-bold uppercase text-text-primary xs:-right-12 xs:-top-24 sm:text-lg md:-right-24 md:-top-40 md:text-xl">
-        What are we develop?
+        What we are developing?
       </h1>
     </section>
   );
